@@ -66,5 +66,6 @@ Create a chat interface with your messages on the right and others on the left (
 Multiple choice questions with immediate feedback and final score.
 
 
-Please Star this repo🙏🙏🙏!!!!
+## Contribution
 
+Please Star this repo🙏🙏🙏!!!!
